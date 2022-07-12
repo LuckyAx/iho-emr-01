@@ -3,9 +3,6 @@ package com.cnhis.emr.rest;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.io.BufferedInputStream;
-import java.io.InputStream;
-
 @SpringBootApplication
 public class EmrDemoApplication {
 
